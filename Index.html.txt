@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pacharadanai Tanwijit - Online Resume</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f2f6fc;
+            margin: 0;
+            padding: 40px;
+            color: #333;
+        }
+
+        .resume {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            color: #1769aa;
+            margin-bottom: 5px;
+        }
+
+        h2 {
+            color: #1769aa;
+            border-bottom: 2px solid #1769aa;
+            padding-bottom: 5px;
+            margin-top: 30px;
+        }
+
+        .nickname {
+            color: #666;
+            font-size: 18px;
+        }
+
+        p {
+            line-height: 1.7;
+        }
+
+        ul {
+            line-height: 1.8;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="resume">
+
+    <h1>Pacharadanai Tanwijit</h1>
+    <div class="nickname">Nickname: Gale</div>
+
+    <h2>Contact Information</h2>
+    <p>
+        <strong>Address:</strong> Bangkok, Thailand
+    </p>
+
+    <h2>Profile</h2>
+    <p>
+        My nickname is Gale. I am currently a second-year student
+        at the Faculty of Economics, University of the Thai Chamber
+        of Commerce. I am interested in developing my knowledge and
+        skills in economics and business.
+    </p>
+
+    <h2>Work Experience</h2>
+    <p>
+        No prior work experience.
+    </p>
+
+    <h2>Education</h2>
+    <p>
+        <strong>University of the Thai Chamber of Commerce</strong><br>
+        Faculty of Economics<br>
+        Second-year student
+    </p>
+
+    <h2>Interests & Hobbies</h2>
+    <ul>
+        <li>Watching movies</li>
+        <li>Playing games</li>
+    </ul>
+
+</div>
+
+</body>
+</html>
